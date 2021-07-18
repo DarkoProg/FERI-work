@@ -4,7 +4,7 @@ CONTENTS:
 2. linux-file-descryptors -> program for sending data from one file descryptor to another.
 3. server-car ->             this was a small group project for creating a car drivable trough a control panel on our website, my part was making a server where we display the car controls if you are logged in  and
                              made the login/register process.
-4. TicTacToe ->              ai working on alpha-beta alghoritem, trying to den the player the win.
+4. TicTacToe ->              AI working on alpha-beta alghoritem, trying to den the player the win.
 5. triangulation ->          generating optimized trangulation from generate dots.
 
 
