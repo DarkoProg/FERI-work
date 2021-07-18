@@ -1,3 +1,5 @@
+Collection of a few projects done at FERI.
+
 CONTENTS:
 
 1. client-server ->          simple linux client-server for sending files.
