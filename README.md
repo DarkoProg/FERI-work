@@ -9,4 +9,5 @@ CONTENTS:
 
 
 Here is also my itch.io page https://marko-golob.itch.io/
-Me and my friends did a couple of game jams. In ALotOfDarkness I was the programer together with a friend and other friend was the art/sound design. For the other two games I was the only programmer and the same friend that did art/sound design was also present in those games.
+Me and my friends did a couple of game jams. In ALotOfDarkness I was the programer together with a friend and other friend was the art/sound design.
+For the other two games I was the only programmer and the same friend that did art/sound design was also present in those games.
