@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdn.jsdelivr.net/npm/p5@1.2.0/lib/p5.js"></script>
+    <script src="sketch.js"></script>
+    <style>
+	body{
+		background-color: #8c67db;
+	}
+
+	#content {
+		position: fixed;
+		left: 50%;
+	}
+    </style>
+  </head>
+  <body>
+	<div id="content">
+		<label for="stTock">Number of points:</label><br>
+		<input type="text" id="stTock" name="stTock"><br>
+		<input type="submit" onclick="tockeGen()" value="gen"><br><br>
+
+		<input type="submit" onclick="minTring()" value="tring"><br><br>
+
+		<br><br>
+		<ol>
+			<li>put the number of dots you want and press the gen button</li>
+			<li>press the tring button</li>
+		</ol>
+		
+  	</div>
+  </body>
+</html>
