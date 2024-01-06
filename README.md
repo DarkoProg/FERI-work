@@ -1,4 +1,4 @@
-Collection of a few projects done at FERI.
+Collection of a few projects done at university.
 
 CONTENTS:
 
